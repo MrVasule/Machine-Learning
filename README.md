@@ -29,6 +29,7 @@ After  Traning - Take in unseen input and determine which label to classify it t
 
 ## Regression - 
 Find relationship between dependend and independent variable.
+
 Goal - To predict continues values such as test score.
 
 ## Type - 
