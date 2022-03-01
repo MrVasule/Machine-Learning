@@ -126,7 +126,7 @@ cluster with in clusters. Data point may belong to many cluster.
 
     a - DBSCAN - Density Based Spatial Clustering of Applications with Noise
 
-# Refrance - 
+# Refrence - 
 - Google.com
 - en.wikipedia.org
 - scikit-learn.org
